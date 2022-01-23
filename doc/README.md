@@ -8,16 +8,15 @@ We draw from many sources to form our brand identity and at the core is the simp
 
 * 8(a) Minority Owned
 * 100% Veteran Owned
-* HUBZone Qualified
-* CRDA Research Arm
+* CRDA Research: _The purpose of a CRADA is to make available Government facilities, intellectual property, and expertise for collaborative interactions that lead to useful, marketable products that benefit public health._
 
 NAICS Codes:
 * 541511 Custom Computer Programming Services
 * 
 
-### Military
+### Military Influence
 
-Military: 13D - Tactical Data specialist
+Military MOS: 13D - Tactical Data specialist
 
 The principal founder of the company proudly served as a 13D in the US Army. This is a Tactical Data Specialist and he credits this training and experiences across two combat deployments for much of his value system and ability to think critically.
 
@@ -26,6 +25,26 @@ The principal founder of the company proudly served as a 13D in the US Army. Thi
 Windows Bug: https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/bug-check-0x13d--critical-initialization-failure
 
 We think the nature of this Microsoft Windows bug accurately reflects what so many of our clients experience from a variety of system issues. Something at the heart of your IT process simply fails to initalize. Maybe it happens at the begining of the day, maybe the end, or maybe on the weekend. In any of these scenarios the common thread is that the solution to the problem is rarely obvious.
+
+#### OOODA Loop Implementation
+
+* **Observe:** Operational Tempo is the ideal running state.
+* **Orient:** Planning/Assessment for remediation or feature deployment via a _planning_ phase.
+* **Decide** how the problem should be solved through _design_.
+* **Act:** Implementation of the design.
+* **Test:** Confirm the solution matches or improves the operational tempo.
+
+```wavedrom
+
+{signal: [
+  {name: 'operational tempo', wave: 'p.....|...'},
+  {name: 'planning', wave: 'x.345x|=.x', data: ['head', 'body', 'tail', 'data']},
+  {name: 'designing', wave: '0.1..0|1.0'},
+  {name: 'implementing', wave: '1.....|01.'},
+  {name: 'testing', wave: '1.....|01.'},
+]}
+
+```
 
 ### History
 
@@ -88,9 +107,9 @@ Whether you need a consultant to simply help with a few rough spots, or a top do
 
 The research arm of Ox13 focuses on reserach projects related to IoT, Microgrid, Drone, weather, and terrain machine learning applications. Research is conducted at our Virginia Farm and results are used to better inform local communities. Our models are closed source but are freely available for licensed use to our contract partners.
 
-### The Farm
+### Project 1m40a
 
-The farm consists of a publically available camping and event site as well as mix used residential buildings. All customers of the property consent to security survellience under the promise of full anonymity and the right to be forgotton. Data collected is used to train models in normal vs suspicious behavior. A tactical range and course is also located on the property using airsoft weapons. Demos of the copperhead framework are available upon request.
+Commit as many resources as possible to establishing affordable housing and community involvement in Richmond, VA
 
 -------------------------
 
