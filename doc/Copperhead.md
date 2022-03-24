@@ -1,7 +1,20 @@
 # Project Copperhead
 
 Generate a portable app using Swagger spec files.
-Provide builds for: native (osx/linux/min), wasm, nodejs, FFI interop.
+Provide builds for: native (osx/linux/win) and web.
+
+- wasm, nodejs, FFI interop.
+
+## Tech
+
+* FluentUI
+* XStateJS
+* DexieJS
+* Azure-AD
+* PowerBI
+* OpenAPI-TypeScript
+* Cucumber Tests
+* Leaflet
 
 ## CLI
 
