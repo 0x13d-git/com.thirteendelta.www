@@ -1,0 +1,60 @@
+{
+  "name": "com.0x13d.a2bnft",
+  "version": "0.1.0",
+  "description": "a2bnft website",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x13d-git/com.0x13d.a2bnft.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0x13d-git/com.0x13d.a2bnft/issues"
+  },
+  "homepage": "https://github.com/0x13d-git/com.0x13d.a2bnft#readme",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^12.1.4",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.4.1",
+    "@types/node": "^16.11.26",
+    "@types/react": "^17.0.40",
+    "@types/react-dom": "^17.0.13",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "5.0.0",
+    "typescript": "^4.6.2",
+    "web-vitals": "^2.1.4",
+    "dexie": "^3.2.1",
+    "formik": "^2.2.9",
+    "logrocket": "^2.2.0",
+    "tailwindcss": "^3.0.23",
+    "xstate": "^4.30.0",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
