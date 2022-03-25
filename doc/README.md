@@ -38,7 +38,7 @@ We think the nature of this Microsoft Windows bug accurately reflects what so ma
 
 {signal: [
   {name: 'operational tempo', wave: 'p.....|...'},
-  {name: 'planning', wave: 'x.345x|=.x', data: ['head', 'body', 'tail', 'data']},
+  {name: 'planning', wave: 'x.345x|=.x', data: ['need', 'impact', 'resource', 'schedule']},
   {name: 'designing', wave: '0.1..0|1.0'},
   {name: 'implementing', wave: '1.....|01.'},
   {name: 'testing', wave: '1.....|01.'},
@@ -46,7 +46,7 @@ We think the nature of this Microsoft Windows bug accurately reflects what so ma
 
 ```
 
-### History
+### Historical Brand References and other Signals in the Noise
 
 Hex value of 0x13d is '317'. 3/17. Commonly known is the western world as March 17. <strong>St. Patricks's Day</strong>. Another of our founding partners enjoys this connection to thier Irish heritage. However as students of history we also draw inspriation to these other significant times in history which also occured on March 17:
 
@@ -105,7 +105,7 @@ Whether you need a consultant to simply help with a few rough spots, or a top do
 
 ## Research
 
-The research arm of Ox13 focuses on reserach projects related to IoT, Microgrid, Drone, weather, and terrain machine learning applications. Research is conducted at our Virginia Farm and results are used to better inform local communities. Our models are closed source but are freely available for licensed use to our contract partners.
+The research arm of Thirteen Delta focuses on reserach projects related to _solar microgrids_, _weather/climate data collection_, and _terrain mapping_. Research is conducted at sites located within Richmond, VA and results are used to better inform local communities. Our models are closed source but are freely available for licensed use to our contract partners.
 
 ### Project 1m40a
 
