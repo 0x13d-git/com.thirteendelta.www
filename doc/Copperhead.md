@@ -16,6 +16,10 @@ Provide builds for: native (osx/linux/win) and web.
 * Cucumber Tests
 * Leaflet
 
+## Partner Opportunities
+
+* Dedicated access and isolated silos for schools and research groups.
+
 ## CLI
 
 // CLI Tools to do things like generate a Rust CLAP CLI from a Swagger/OpenApi spec file (json/yaml)
