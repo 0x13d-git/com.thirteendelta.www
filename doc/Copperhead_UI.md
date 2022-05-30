@@ -14,7 +14,13 @@ Provide builds for: native (osx/linux/win) and web.
 * PowerBI
 * OpenAPI-TypeScript
 * Cucumber Tests
+
+### Modules
 * Leaflet
+* PowerBI
+* Markdown Viewer
+* Soldana NFT Manager
+* 13D Property Manager
 
 ## CLI
 

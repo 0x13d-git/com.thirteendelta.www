@@ -28,9 +28,9 @@ We think the nature of this Microsoft Windows bug accurately reflects what so ma
 
 #### OOODA Loop Implementation
 
-* **Observe:** Operational Tempo is the ideal running state.
-* **Orient:** Planning/Assessment for remediation or feature deployment via a _planning_ phase.
-* **Decide** how the problem should be solved through _design_.
+* **Observe:** Operational Tempo is the ideal running state. Abnormal behavior should be routed into various buckets: performance, security defects, functional defects, feature request
+* **Orient:** Planning/Assessment for remediation performance|security|functional or feature deployment via a _planning_ phase.
+* **Decide** how the issue should be solved through _design_.
 * **Act:** Implementation of the design.
 * **Test:** Confirm the solution matches or improves the operational tempo.
 
@@ -45,7 +45,19 @@ We think the nature of this Microsoft Windows bug accurately reflects what so ma
 ]}
 
 ```
+TODO: use the wave form to show Cloosed loop control that OOODA feedback loop helps structure.
 
+##### Weighted Descion Matrix
+
+As an exercise the priority for backlogs may be provided using a decision matrix. Assume the following table represents backlog items related to performance|security|functional|feature work streams. By comparing and ranking the importance of each task against every other task we arrive at an objective view of importance and priority.
+
+|-|A|B|C|D|E|F|Total|
+|A||||||||
+|B||||||||
+|C||||||||
+|D||||||||
+|E||||||||
+|F||||||||
 ### Historical Brand References and other Signals in the Noise
 
 Hex value of 0x13d is '317'. 3/17. Commonly known is the western world as March 17. <strong>St. Patricks's Day</strong>. Another of our founding partners enjoys this connection to thier Irish heritage. However as students of history we also draw inspriation to these other significant times in history which also occured on March 17:
