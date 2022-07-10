@@ -19,7 +19,7 @@ Provide builds for: native (osx/linux/win) and web.
 * Leaflet
 * PowerBI
 * Markdown Viewer
-* Soldana NFT Manager
+* Solana NFT Manager
 * 13D Property Manager
 
 ## Partner Opportunities
