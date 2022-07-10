@@ -28,7 +28,7 @@
 * Solar Shack: well controls, internet relay, etc.
 * 5G - reach highway?
 * Water Analysis at well
-
+* Partner?: Centra Virginia Agrarian Commons, Tricycle Gardens
 
 ## 330 Greenway : Green Space
 
